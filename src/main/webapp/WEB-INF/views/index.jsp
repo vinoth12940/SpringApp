@@ -46,11 +46,11 @@
           </a>
         <div class="text">
           <h1>Congratulations!</h1>
-<<<<<<< HEAD
+
           <h2>You just created a Java Spring web application.By vinoth</h2>
-=======
-          <h2>You just created a Java Spring web application.</h2>
->>>>>>> refs/remotes/origin/master
+
+
+
         </div>
       </div>
     </div>
