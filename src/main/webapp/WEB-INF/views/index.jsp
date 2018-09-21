@@ -47,7 +47,7 @@
         <div class="text">
           <h1>Welcome to Vruksham!</h1>
 
-          <h2>Website under construction !!!!!</h2>
+          <h2>Website under testing !!!!!</h2>
         </div>
       </div>
     </div>
